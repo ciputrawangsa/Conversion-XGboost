@@ -1,4 +1,4 @@
-# Prediksi Conversion Report Digital Marketing💡 - ![XGBoost](https://img.shields.io/badge/XGBoost-00B140?style=for-the-badge&logo=XGBoost&logoColor=white)
+# Prediksi Conversion dari Report Digital Marketing💡 - ![XGBoost](https://img.shields.io/badge/XGBoost-00B140?style=for-the-badge&logo=XGBoost&logoColor=white)
 
 Repositori ini berisi project prediksi konversi menggunakan beberapa model (KNN, SVM, Decision Tree, Random Forest, XGBoost) klasifikasi dengan base parameter, lalu model terbaik selanjutnya dilakukan hyperparameter tuning, hasilnya model ini menggunakan **XGBoost** sebagai model prediksi. Project ini bertujuan untuk menerapkan model machine learning untuk memprediksi konversi berdasarkan dataset yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga percobaan model menggunakan unseen data.
 

@@ -1,4 +1,4 @@
-# Prediksi Conversion 💡 - ![XGBoost](https://img.shields.io/badge/XGBoost-00B140?style=for-the-badge&logo=XGBoost&logoColor=white)
+# Prediksi Conversion Report Digital Marketing💡 - ![XGBoost](https://img.shields.io/badge/XGBoost-00B140?style=for-the-badge&logo=XGBoost&logoColor=white)
 
 Repositori ini berisi project prediksi konversi menggunakan beberapa model (KNN, SVM, Decision Tree, Random Forest, XGBoost) klasifikasi dengan base parameter, lalu model terbaik selanjutnya dilakukan hyperparameter tuning, hasilnya model ini menggunakan **XGBoost** sebagai model prediksi. Project ini bertujuan untuk menerapkan model machine learning untuk memprediksi konversi berdasarkan dataset yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga percobaan model menggunakan unseen data.
 
@@ -72,7 +72,7 @@ Dalam proyek ini, saya menggunakan beberapa model klasifikasi dengan base parame
 
 - ![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 3.10.14
-- ![XGBoost](https://img.shields.io/badge/XGBoost-00B140?style=for-the-badge&logo=XGBoost&logoColor=white)
+- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 ## Libraries 📚
 - Pandas
@@ -87,4 +87,5 @@ Dalam proyek ini, saya menggunakan beberapa model klasifikasi dengan base parame
 
 ## Author ✍️
 **Ciputra Wangsa**
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciputra-wangsa/)

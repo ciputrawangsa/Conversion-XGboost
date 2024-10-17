@@ -54,6 +54,7 @@ Dalam proyek ini, saya menggunakan beberapa model klasifikasi dengan base parame
 - `model_research.ipynb`: Jupyter Notebook yang berisi langkah-langkah analisis data, pengembangan model XGBoost, evaluasi model, dan wawasan yang diperoleh dari analisis.
 - `data_inference.ipynb`: Jupyter Notebook yang berisi prediksi unseen data menggunakan model yang sudah dibuat sebelumnya
 - `model.pkl, preproc.pkl`: Hasil penyimpanan model dan preprocessing
+- `digital_marketing_campaign_dataset.csv`: Raw dataset
   
 ## Cara Menggunakan Proyek Ini 💻
 

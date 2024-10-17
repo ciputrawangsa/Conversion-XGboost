@@ -7,7 +7,7 @@ Repositori ini berisi project prediksi konversi menggunakan beberapa model (KNN,
 2. [Project Overview](#project-overview-)
 3. [Metode yang Digunakan](#metode-yang-digunakan-)
 4. [File yang Tersedia](#file-yang-tersedia-)
-5. [Cara Menggunakan Proyek Ini](#cara-menggunakan-proyek-ini-)
+5. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
 6. [Dependencies](#dependencies-)
 7. [Libraries](#libraries-)
 8. [Author](#author-)
@@ -56,7 +56,7 @@ Dalam proyek ini, saya menggunakan beberapa model klasifikasi dengan base parame
 - `model.pkl, preproc.pkl`: Hasil penyimpanan model dan preprocessing
 - `digital_marketing_campaign_dataset.csv`: Raw dataset
   
-## Cara Menggunakan Proyek Ini 💻
+## Cara Menggunakan Project Ini 💻
 
 1. Clone repositori ini ke dalam lokal Anda:
     ```bash
